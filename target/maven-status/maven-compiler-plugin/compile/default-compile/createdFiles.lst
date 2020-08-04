@@ -1,0 +1,8 @@
+com/qa/verizon/pages/CartPage.class
+com/qa/verizon/utilities/ElementUtil.class
+com/qa/verizon/utilities/JavaScriptUtil.class
+com/qa/verizon/pages/VerizonMainPage.class
+com/qa/verizon/base/BasePage.class
+com/qa/verizon/pages/SmartPhonePage.class
+com/qa/verizon/pages/FeaturesPage.class
+com/qa/verizon/utilities/Constants.class
